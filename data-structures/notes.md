@@ -24,20 +24,20 @@ priority queues
     3. PostOrder: visit all left, visit right, parent node
 
 ### PreOrder
-![](images/1c254246.png)
+![](../images/1c254246.png)
 
 ### InOrder
-![](images/755ecb64.png)
+![](../images/755ecb64.png)
 
 ### PostOrder
-![](images/d6c3c93f.png)
+![](../images/d6c3c93f.png)
 
 
 ---
 
 ## Breadth First Search (BFS)
 
-![](images/ac62fd7b.png)
+![](../images/ac62fd7b.png)
 
 
 - explore all nodes at present depth before moving next depth level
@@ -57,21 +57,21 @@ priority queues
 ## Find Min or Max Values
 
 ### Min Node
-![](images/3cdde677.png)
+![](../images/3cdde677.png)
 
 ### Max Node
-![](images/6468bd0c.png)
+![](../images/6468bd0c.png)
 
 ---
 
 ### Delete A Node
 
 #### Remove Node - No Childrem
-![](images/546fc429.png)
+![](../images/546fc429.png)
 
 #### Remove Node - One Child
-![](images/60d66622.png)
+![](../images/60d66622.png)
 
 #### Remove Node - Two Child Nodes
-![](images/cf352c3f.png)
+![](../images/cf352c3f.png)
 

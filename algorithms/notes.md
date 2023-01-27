@@ -14,10 +14,10 @@
 # Recursive - Time Complexity
 
 
-![](algorithms/images/8352b808.png)
+![](../images/8352b808.png)
 
 # Quick Sort
-![](.notes_images/54d74426.png)
+![](../images/54d74426.png)
 
 # Algorithm Design Techniques
-![](.notes_images/d75598fa.png)
+![](../images/d75598fa.png)

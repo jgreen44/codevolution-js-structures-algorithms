@@ -17,7 +17,7 @@ function bubbleSort(arr) {
   } while (swapped);
 }
 
-const testArray = [8, 20, -2, 4, -6];
+const testArray = [8, 20, -2, 4, -6]; // [ -6, -2, 4, 8, 20 ]
 bubbleSort(testArray);
 console.log(testArray);
 

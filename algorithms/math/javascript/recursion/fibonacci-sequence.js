@@ -1,5 +1,4 @@
 // Problem: Give a number 'n', find the nth elements of the Fibonacci sequence
-
 function recursiveFibonacci(n) {
   // base case
   if (n < 2) {
